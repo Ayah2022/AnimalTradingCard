@@ -1,0 +1,31 @@
+.pic {
+	width: 300px;
+	padding: 0.5cm;
+}
+
+.wholecard {
+	width: 500px;
+	box-shadow: 10px 10px 5px lightgrey;
+}
+
+.fontBold {
+	font-weight: bold;
+}
+
+.sizeFont {
+	font-size: 200%;
+}
+
+.borderStyle {
+	 border: 1px solid lightgrey;
+	 padding: 0.5cm;
+}
+
+.ListStyle {
+    list-style: none; /* Remove list bullets */
+	padding-left: 0; 
+}
+
+.interestingFact {
+	font-style: italic;
+}
